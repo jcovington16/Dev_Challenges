@@ -120,7 +120,7 @@ h3 {
   cursor: pointer;
 }
 
-p.footer {
+a.footer {
   position: absolute;
   width: 226px;
   height: 17px;
@@ -133,6 +133,8 @@ p.footer {
 
   text-align: center;
   white-space: nowrap;
+  
+
 }
 
 @media screen and (max-width: 1280px) {
